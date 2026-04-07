@@ -1,0 +1,22 @@
+body {
+background-color: hsl(47, 88%, 63%);
+}
+
+#container {
+color: hsl(0, 0%, 100%);
+}
+
+.outfit-p {
+  font-family: "Outfit", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 800px;
+  font-style: normal;
+}
+
+
+.figtree-p {
+  font-family: "Figtree", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500px;
+  font-style: normal;
+}
