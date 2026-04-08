@@ -1,22 +1,47 @@
-body {
+#body {
 background-color: hsl(47, 88%, 63%);
 }
 
 #container {
 color: hsl(0, 0%, 100%);
+text-align: left;
+width: 300px;
+height: 500px;
+margin: auto;
 }
 
-.outfit-p {
-  font-family: "Outfit", sans-serif;
+img {
+max-width: 250px;
+padding: 15px;
+box-align: center;
+}
+
+#learning-box {
+background-color: hsl(47, 88%, 63%);
+}
+
+#avatar {
+width: 20px;
+height: 20px;
+margin-right: 10px;
+}
+
+.figtree-h {
+  font-family: "Figtree", sans-serif;
   font-optical-sizing: auto;
   font-weight: 800px;
   font-style: normal;
+  color: hsl(0, 0%, 7%);
 }
-
 
 .figtree-p {
   font-family: "Figtree", sans-serif;
   font-optical-sizing: auto;
   font-weight: 500px;
   font-style: normal;
+  color: hsl(0, 0%, 42%);
+}
+
+.footer {
+    text-align: center;
 }
